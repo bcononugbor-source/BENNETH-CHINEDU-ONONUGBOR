@@ -1,8 +1,8 @@
 # BENNETH-CHINEDU-ONONUGBOR
 Cybersecurity SOC portfolio and hands-on HOME lab  and proffesional projects.
-# 👋 Hi, I'm Ben
+#  Hi, I'm Ben
 
-## 🛡️ Aspiring Cybersecurity Analyst | SOC & Incident Response Enthusiast  
+##  Cybersecurity Analyst | SOC & Incident Response Enthusiast  
 ## 🧬 Biomedical Scientist → Cybersecurity Transition
 
 ## 🔍 About Me
@@ -46,7 +46,7 @@ Through structured training and hands-on labs, I have developed knowledge in:
 - Metasploit Framework (Controlled lab environments)
 
 
-## 💻 Technical Skills
+##  Technical Skills
 
 - Threat detection & log analysis  
 - Incident triage and escalation support  
